@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">I'm <a href="https://www.linkedin.com/in/ciro-matheus/"><i>Ciro Carvalho</i></a> </h1>
-  <p align="center"><i>👉🏽️ Front-End Developer.</i></a><span> </span>
+  <p align="center"><i>👉🏽️ Back-End Developer.</i></a><span> </span>
   <p align="center"><i>👉🏽️ Learning to be FullStack.</i></a><span> </span>
 
   <p align="center">26, Rio - Brazil</h2>
